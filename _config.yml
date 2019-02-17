@@ -38,7 +38,7 @@ plugins:
 # Site Author
 author:
   name: Li Yanzhang
-  picture: /images/LYZ.jpg
+  picture: ./images/liyanzhang-photo.jpg
   email: liyanzhang1117@foxmail.com
   links:
     - title: Instagram
