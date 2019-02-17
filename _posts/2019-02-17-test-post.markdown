@@ -1,0 +1,16 @@
+---
+layout: post
+title:  "Hello World"
+date:   2019-02-17 15:00:00 +0800
+categories: blog test
+---
+Here is the Hello World Post for my portfolio.
+
+To make sure everything works well, I gonna test all the things in this post.
+
+First, I would like to test the pics.
+![A test Image](https://ws4.sinaimg.cn/large/006tKfTcly1g09h40tvtgj31cs0riq57.jpg "Demo Page of PN")
+
+Also, testing the links.
+[My Personal Blog](http://www.oh-eureka.com/)
+
