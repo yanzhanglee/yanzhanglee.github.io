@@ -1,0 +1,12 @@
+# Sample site navigation bar links
+
+- title: Home
+  url: /
+- title: Works
+  url: /works/
+- title: Resume
+  url: ./resume.html
+- title: Blog
+  url: http://www.oh-eureka.com
+- title: Search
+  url: /search/

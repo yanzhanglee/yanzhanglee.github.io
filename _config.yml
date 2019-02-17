@@ -13,17 +13,20 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Yanzhang's Portfolio
+title: YANZHANG's Portfolio
 email: liyanzhang1117@foxmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Hi:) Here is Yanzhang's portfolio.
-  Want's to learn more about him? Check his BLOG on http://www.oh-eureka.com .
+  Hi:) Here is Yanzhang's portfolio.</br>
+  Want's to learn more about him? Check his <a href="http://www.oh-eureka.com">BLOG</a> or <a href="mailto:854605104@qq.com">email him</a>.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://liyanzhang.cn" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: 
-github_username:  yanzhanglee
+github_username: yanzhanglee
 logo: /images/LYZ.png
-
+google_fonts:
+  - name: "Source Sans Pro"
+    weights: "400,400i,700,700i"
+  - name: "Lora"
+    weights: "400,400i,700,700i"
 read_time: true
 words_per_minute: 100
 
@@ -33,7 +36,10 @@ search_full_content: true
 markdown: kramdown
 remote_theme: "mmistakes/so-simple-theme"
 plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
   - jekyll-feed
+  - jekyll-paginate
 
 # Site Author
 author:
@@ -62,6 +68,33 @@ footer_links:
   - title: Blog
     url: http://www.oh-eureka.com
     icon: fas fa-blog
+
+# Front Matter Defaults
+defaults:
+  # Post defaults
+  - scope:
+      path: "_posts"
+      type: posts
+    values:
+      layout: post
+      comments: true
+      share: true
+  # Works defaults
+  - scope:
+      path: "_works"
+      type: works
+    values:
+      layout: post
+      comments: true
+      share: true
+
+# Collections
+collections:
+  works:
+    output: true
+    permalink: /:collection/:path/
+
+copyright: "This site is made with by *Yanzhang*."
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
