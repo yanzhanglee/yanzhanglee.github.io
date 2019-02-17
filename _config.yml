@@ -17,12 +17,15 @@ title: Yanzhang's Portfolio
 email: liyanzhang1117@foxmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Hi:) Here is Yanzhang's portfolio.
-  Want's to learn more about him? Check his [BLOG](http://www.oh-eureka.com) site.
+  Want's to learn more about him? Check his BLOG on http://www.oh-eureka.com .
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://liyanzhang.cn" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: 
 github_username:  yanzhanglee
+logo: /_images/LYZ.png
 
+read_time: true
+words_per_minute: 100
 # Build settings
 markdown: kramdown
 remote_theme: "mmistakes/so-simple-theme"
