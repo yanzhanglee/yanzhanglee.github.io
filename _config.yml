@@ -35,6 +35,34 @@ remote_theme: "mmistakes/so-simple-theme"
 plugins:
   - jekyll-feed
 
+# Site Author
+author:
+  name: Li Yanzhang
+  picture: /images/LYZ.jpg
+  email: liyanzhang1117@foxmail.com
+  links:
+    - title: Instagram
+      url: https://instagram.com/lyzsinsta
+      icon: fab fa-instagram
+    - title: GitHub
+      url: https://github.com/yanzhanglee
+      icon: fab fa-github-square
+    - title: Blog
+      url: http://www.oh-eureka.com
+      icon: fab fa-blog
+
+# Footer Links
+footer_links:
+  - title: Instagram
+    url: https://instagram.com/lyzsinsta
+    icon: fab fa-instagram
+  - title: GitHub
+    url: https://github.com/yanzhanglee
+    icon: fab fa-github-square
+  - title: Blog
+      url: http://www.oh-eureka.com
+      icon: fab fa-blog
+
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.
