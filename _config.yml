@@ -49,7 +49,7 @@ author:
       icon: fab fa-github-square
     - title: Blog
       url: http://www.oh-eureka.com
-      icon: fab fa-blog
+      icon: fas fa-blog
 
 # Footer Links
 footer_links:
@@ -61,7 +61,7 @@ footer_links:
     icon: fab fa-github-square
   - title: Blog
     url: http://www.oh-eureka.com
-    icon: fab fa-blog
+    icon: fas fa-blog
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
