@@ -60,8 +60,8 @@ footer_links:
     url: https://github.com/yanzhanglee
     icon: fab fa-github-square
   - title: Blog
-      url: http://www.oh-eureka.com
-      icon: fab fa-blog
+    url: http://www.oh-eureka.com
+    icon: fab fa-blog
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
