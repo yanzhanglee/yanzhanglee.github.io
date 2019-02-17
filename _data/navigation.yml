@@ -1,7 +1,5 @@
 # Sample site navigation bar links
 
-- title: Home
-  url: /
 - title: Works
   url: /works/
 - title: Resume
