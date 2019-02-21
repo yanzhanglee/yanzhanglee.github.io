@@ -1,16 +1,16 @@
 ---
 layout: post
-title:  "Hello World"
+title:  "Hi:) Read me first or Explore freely."
 date:   2019-02-17 15:00:00 +0800
-categories: blog test
+categories:
 ---
-Here is the Hello World Post for my portfolio.
 
-To make sure everything works well, I gonna test all the things in this post.
+Hi，我叫李彦樟，是一个学生，一个对设计、代码、商业都有点兴趣的人。<br>
+关于我个人更多的信息，可以去看我的[Resume](https://liyanzhang.cn/resume.html)，或者给我<a href="mailto:liyanzhang1117@foxmail.com">发邮件</a>。<br>
+<br>
+你正在浏览的是我的作品集网站，这里将只会有与工作、设计、前端、商业有关的内容，而与我的生活、兴趣或者是其他相关的东西，你可以在我的[Blog](http://www.oh-eureka.com)看到。
 
-First, I would like to test the pics.
-![A test Image](https://ws4.sinaimg.cn/large/006tKfTcly1g09h40tvtgj31cs0riq57.jpg "Demo Page of PN")
+而关于我的「[作品](https://liyanzhang.cn/works/)」，它们大多达不到精致或是让人惊叹的水平，但其中或多或少都有我的思考和努力，还请海涵。如果您有任何看法或者建议，请不吝赐教。
 
-Also, testing the links.
-[My Personal Blog](http://www.oh-eureka.com/)
+Hi, I am Li Yanzhang.
 
