@@ -5,12 +5,11 @@ image:
   thumbnail: ./images/patent-novelty-screenshot-small.png
   caption: "Website Screenshot"
 ---
+The website is now available on: http://www.innogps.com/innovelty/index.html <br>
+<i class="fab fa-github"></i> Code Resource: https://github.com/yanzhanglee/Patent-Novelty-Website
 
 > I did this design project during my outbound exchange period in Singapore University of Technology and Design (SUTD), with the guide of Prof.Luo Jianxi. Generally speaking, I redesigned **the structure of the website** as well as **the visual part**, and put the design into practice by **building the website** based on my design. Please forgive me for the low quality of some parts of the website, because of my naive design experience and poor deleloping skill. <br>
 > 这是我在新加坡科技设计大学（SUTD）交换时的科研项目，指导教授为Luo Jianxi教授。总体上看，我基于用户体验重新设计了网站的结构与视觉，并使用自己的前端开发技能付诸实践。该网站现已上线，可以在下方的链接中尝试使用或者是获得源码。必须承认，囿于开发水平和设计经验，网站中有太多不成熟和不够细致的地方，请见谅。
-
-The website is now available on: http://www.innogps.com/innovelty/index.html <br>
-<i class="fab fa-github"></i> Code Resource: https://github.com/yanzhanglee/Patent-Novelty-Website
 
 # Schema 大纲
 **[Understand the theory 理解原理](#understand-the-theory-理解原理)**
