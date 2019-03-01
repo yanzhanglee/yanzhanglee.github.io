@@ -13,10 +13,14 @@ image:
 
 # Schema 大纲
 **[Understand the theory 理解原理](#understand-the-theory-理解原理)**
+<br>
 **[Design 设计](#design-设计)**
+<br>
 **[Develop 开发](#develop-开发)**
+<br>
 **[Improvement 用户调研、反馈与迭代](#improvement-用户调研反馈与迭代)**
-**[Shortcoming & Take Away 缺点与学习](#shortcoming&take-away-缺点与学习)**
+<br>
+**[Shortcoming & Take Away 缺点与学习](#shortcoming-take-away-缺点与学习)**
 
 
 # Understand the theory 理解原理

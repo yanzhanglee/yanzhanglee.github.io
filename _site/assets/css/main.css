@@ -42,6 +42,12 @@
 /*! Lity - v3.0.0-dev - 2017-07-17
 * http://sorgalla.com/lity/
 * Copyright (c) 2015-2017 Jan Sorgalla; Licensed MIT */
+
+@font-face {
+  font-family: 'Courier';   /*字体名称*/
+  src: url('fonts/Courier.ttf');       /*字体源文件*/
+}
+
 .lity { z-index: 9990; position: fixed; top: 0; right: 0; bottom: 0; left: 0; white-space: nowrap; background: #0b0b0b; background: rgba(0, 0, 0, 0.9); outline: none !important; opacity: 0; -webkit-transition: opacity .3s ease; -o-transition: opacity .3s ease; transition: opacity .3s ease; }
 
 .lity.lity-opened { opacity: 1; }
