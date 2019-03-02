@@ -28,7 +28,7 @@ google_fonts:
   - name: "Lora"
     weights: "400,400i,700,700i"
 read_time: true
-words_per_minute: 100
+words_per_minute: 50
 search_full_content: true
 paginate: 10
 paginate_path: /page:num/
