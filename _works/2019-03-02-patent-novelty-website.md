@@ -1,10 +1,12 @@
 ---
-title: "Website Design - Patent Novelty"
+title: "Web Design - Patent Novelty Website"
 image: 
   path: ./images/patent-novelty-screenshot.png
   thumbnail: ./images/patent-novelty-screenshot-small.png
   caption: "Website Screenshot"
 ---
+**A website which could evaluate the potential value of a patent.**<br>
+**一个可以衡量专利潜在价值的网站**
 - The website is now available. [View website](http://www.innogps.com/innovelty/index.html) <br>
 - <i class="fab fa-github"></i> [Code Resource](https://github.com/yanzhanglee/Patent-Novelty-Website)
 

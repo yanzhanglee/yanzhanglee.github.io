@@ -1,12 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
-<loc>http://localhost:4000/2019/02/17/test-post.html</loc>
+<loc>http://localhost:4000/2019/02/17/hello-world.html</loc>
 <lastmod>2019-02-17T15:00:00+08:00</lastmod>
 </url>
 <url>
-<loc>http://localhost:4000/works/patent-novelty-website/</loc>
-<lastmod>2019-02-26T21:46:21+08:00</lastmod>
+<loc>http://localhost:4000/works/2018-01-26-design-psychology/</loc>
+<lastmod>2018-01-26T00:00:00+08:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/works/2019-03-02-patent-novelty-website/</loc>
+<lastmod>2019-03-02T00:00:00+08:00</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/</loc>
