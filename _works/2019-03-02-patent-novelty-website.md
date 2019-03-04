@@ -2,7 +2,7 @@
 title: "Web Design - Patent Novelty Website"
 image: 
   path: ./images/patent-novelty-screenshot.png
-  thumbnail: ./images/patent-novelty-screenshot-small.png
+  thumbnail: http://img.oh-eureka.com/pics/2019-03-04-2019-03-04%2010.18.15.gif
   caption: "Website Screenshot"
 ---
 **A website which could evaluate the potential value of a patent.**<br>
