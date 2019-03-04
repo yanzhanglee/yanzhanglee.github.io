@@ -2,7 +2,7 @@
 title: "Android App - Class Attendance Assistant"
 image: 
   path: http://img.oh-eureka.com/pics/2019-03-02-poster.jpg
-  thumbnail: http://img.oh-eureka.com/pics/2019-03-02-poster-little.png
+  thumbnail: http://img.oh-eureka.com/pics/2019-03-04-mini-size.gif
   caption: "Android App"
 ---
 **An Android App sulution to class attendance and more.**<br>
