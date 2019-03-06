@@ -1,8 +1,8 @@
 ---
 title: "Wechat Little App - KuaKua"
 image: 
-  path: http://img.oh-eureka.com/pics/2019-03-06-%E9%A6%96%E9%A1%B5-2.png
-  thumbnail: http://img.oh-eureka.com/pics/2019-03-06-%E9%A6%96%E9%A1%B5-2.png
+  path: http://img.oh-eureka.com/pics/2019-03-06-%E9%A6%96%E9%A1%B5-3.png
+  thumbnail: http://img.oh-eureka.com/pics/2019-03-06-%E9%A6%96%E9%A1%B5-3.png
   caption: "KuaKua Little Program"
 sort_by: date
 sort_order: reverse
