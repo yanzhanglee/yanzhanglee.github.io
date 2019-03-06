@@ -4,4 +4,5 @@ layout: collection
 permalink: /works/
 collection: works
 entries_layout: grid
+sort_order: reverse
 ---
