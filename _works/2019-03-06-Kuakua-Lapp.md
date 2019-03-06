@@ -4,6 +4,8 @@ image:
   path: http://img.oh-eureka.com/pics/2019-03-06-%E9%A6%96%E9%A1%B5-2.png
   thumbnail: http://img.oh-eureka.com/pics/2019-03-06-%E9%A6%96%E9%A1%B5-2.png
   caption: "KuaKua Little Program"
+sort_by: date
+sort_order: reverse
 ---
 **KuaKua Little App is a WeChat app which encourages users to share anything and let other users praise for it.** <br>
 **夸夸小程序是一个用户分享任何内容，而其他用户一定要夸赞他的社区**
