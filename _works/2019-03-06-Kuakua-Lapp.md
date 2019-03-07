@@ -8,7 +8,7 @@ sort_by: date
 sort_order: reverse
 ---
 **KuaKua Little App is a WeChat app which encourages users to share anything and let other users praise for it.** <br>
-**夸夸小程序是一个用户分享任何内容，而其他用户一定要夸赞他的社区**
+**夸夸小程序是一个用户分享内容，其他用户只能发表夸赞评论的社区**
 
 # 项目背景 Backgrounds
 2019年2月中，浙江大学同学的朋友圈被突然出现的“浙大夸夸群”刷屏了，里面充斥着欢声笑语和快乐。“浙大夸夸群”源自豆瓣“相互表扬小组”，其基本原则为任何成员都可以在其中分享自己的任何经历，而其他成员只能夸奖，不能进行任何负面评论。由于其评论之有趣，基调之欢乐，夸夸群迅速裂变，3天内就扩张至3个满员微信群，即有约1500名活跃用户。在接下来的几天里，又有包括上交、复旦、南大、清华、北大等数所大学的数十个微信群建立。
@@ -35,7 +35,7 @@ sort_order: reverse
 ![功能规划](http://img.oh-eureka.com/pics/2019-03-07-105730.png)
 
 # 设计方案 Design
-
+Doing
 
 # 交互学习 Learning
 >经过真机测试，在测试阶段发现了很多小程序交互方面的注意事项
