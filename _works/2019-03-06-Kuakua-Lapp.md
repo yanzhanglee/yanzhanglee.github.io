@@ -33,9 +33,8 @@ sort_order: reverse
 - 裂变分享与用户留存的问题
 
 # 功能规划 Features Plan
-![功能规划](http://img.oh-eureka.com/pics/2019-03-07-105730.png)
-
 {% include toc %}
+
 |全部功能|第一版功能|测试版功能|描述|
 |-------|--------|--------|---|
 |登录|O|O|
