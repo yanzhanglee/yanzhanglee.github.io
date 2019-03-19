@@ -7,7 +7,7 @@ image:
 sort_by: date
 sort_order: reverse
 ---
-**A Service Design Investigation within university campus on food delivery.**
+**A Service Design Investigation within university campus on food delivery.**<br>
 **针对校园外卖的服务设计走查**
 
 作为小组组长，组织的服务设计走查体验。<br>
@@ -15,9 +15,9 @@ sort_order: reverse
 
 1. 利益相关者地图
 
-![利益相关者关系](https://uploader.shimo.im/f/YvMhqN8YL1YT54BD.png!thumbnail)
+![利益相关者关系](http://img.oh-eureka.com/pics/2019-03-19-image.png)
 
-![相关者5W1H](https://uploader.shimo.im/f/kfPS6ui9teAFiepp.png!thumbnail)
+![相关者5W1H](http://img.oh-eureka.com/pics/2019-03-19-image%20-1-.png)
 
 2. 点餐者用户旅程地图
 
