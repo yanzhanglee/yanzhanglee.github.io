@@ -7,7 +7,7 @@ image:
 sort_by: date
 sort_order: reverse
 ---
-**A Service Design Investigation within university campus on food delivery.**<br>
+**A Service Design Investigation within university campus on food delivery.** <br>
 **针对校园外卖的服务设计走查**
 
 作为小组组长，组织的服务设计走查体验。<br>
