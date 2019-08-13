@@ -81,7 +81,15 @@ Related Projects can be check in [Projects](#projects-项目)
 <br>
 
 # Working Experience 工作经历
-> *2018 Dec. – 2019.Mar.*
+> *Jul. 2019 – Sep. 2019*
+> <br>
+> **Interaction Designer**, [Tencent Technology](https://www.tencent.com)
+> <br>
+> *2019年7月-2019年9月*
+> <br>
+> **交互设计师**，[腾讯科技](https://www.tencent.com)
+
+> *Dec. 2018 – Mar. 2019*
 > <br>
 > **Product Manager Assistant**, [Eigen Technology](https://www.eigentech.ai/en/)
 > <br>
@@ -148,5 +156,5 @@ Html5, CSS3, JavaScript, Java, Github, Gitlab
 ### 其他
 Data Analysis(SPSS), Mindmap, Office Series
 # Contact 联系方式
-Mail: <a href="mailto:liyanzhang1117@foxmail.com">liyanzhang1117@foxmail.com</a> <br>
+Mail: <a href="mailto:yanzhang_li@outlook.com">yanzhang_li@outlook.com</a> <br>
 Address: Zijingang Campus of ZJU, Hangzhou, Zhejiang. 310035.
