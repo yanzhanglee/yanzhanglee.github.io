@@ -45,8 +45,8 @@ plugins:
 # Site Author
 author:
   name: Li Yanzhang
-  picture: ./images/liyanzhang-photo.jpg
-  email: liyanzhang1117@foxmail.com
+  picture: ./images/LYZ.png
+  email: yanzhang_li@outlook.com
   links:
     - title: Instagram
       url: https://instagram.com/lyzsinsta
@@ -56,7 +56,7 @@ author:
       icon: fab fa-github-square
     - title: Blog
       url: http://www.oh-eureka.com
-      icon: fa fa-blog
+      icon: fab fa-blog
 
 # Footer Links
 footer_links:
@@ -68,7 +68,7 @@ footer_links:
     icon: fab fa-github-square
   - title: Blog
     url: http://www.oh-eureka.com
-    icon: fa fa-blog
+    icon: fab fa-blog
 
 # Front Matter Defaults
 defaults:
