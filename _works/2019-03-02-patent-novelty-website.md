@@ -22,7 +22,7 @@ image:
 <br>
 **[Improvement 用户调研、反馈与迭代](#improvement-用户调研反馈与迭代)**
 <br>
-**[Shortcoming & Take Away 缺点与学习](#shortcoming-take-away-缺点与学习)**
+**[Shortcoming & Take Away 缺点与学习](#shortcoming--take-away-缺点与学习)**
 
 
 # Understand the theory 理解原理
