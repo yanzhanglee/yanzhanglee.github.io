@@ -14,10 +14,9 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: YANZHANG's Portfolio
-email: liyanzhang1117@foxmail.com
+email: yanzhang_li@outlook.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Hi:) Here is Yanzhang's portfolio.</br>
-  Want's to learn more about him? Check his <a href="http://www.oh-eureka.com">BLOG</a> or <a href="mailto:854605104@qq.com">email him</a>.
+  李彦樟的作品集 @2019
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://liyanzhang.cn" # the base hostname & protocol for your site, e.g. http://example.com
 github_username: yanzhanglee
@@ -49,7 +48,7 @@ author:
   email: yanzhang_li@outlook.com
   links:
     - title: Instagram
-      url: https://instagram.com/lyzsinsta
+      url: https://instagram.com/_liyanzhang
       icon: fab fa-instagram
     - title: GitHub
       url: https://github.com/yanzhanglee
@@ -58,10 +57,11 @@ author:
       url: http://www.oh-eureka.com
       icon: fab fa-blog
 
+
 # Footer Links
 footer_links:
   - title: Instagram
-    url: https://instagram.com/lyzsinsta
+    url: https://instagram.com/_liyanzhang
     icon: fab fa-instagram
   - title: GitHub
     url: https://github.com/yanzhanglee
@@ -95,7 +95,7 @@ collections:
     output: true
     permalink: /:collection/:path/
 
-copyright: "This site is made with by *Yanzhang*."
+copyright: "This site is made with *Jekyll & GitHub Page* by **Yanzhang**."
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list

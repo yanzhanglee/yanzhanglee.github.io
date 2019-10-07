@@ -1,6 +1,6 @@
 var store = [{
-        "title": "Hi:) Read me first or Explore freely.",
-        "excerpt":"Hi，我叫李彦樟，是一个学生，一个对设计、代码、商业都有点兴趣的人。关于我个人更多的信息，可以去看我的Resume，或者给我发邮件。你正在浏览的是我的作品集网站，这里将只会有与工作、设计、前端、商业有关的内容，而与我的生活、兴趣或者是其他相关的东西，你可以在我的Blog看到。而关于我的「作品」，它们大多达不到精致或是让人惊叹的水平，但其中或多或少都有我的思考和努力，还请海涵。如果您有任何看法或者建议，请不吝赐教。 Hi, I am Li Yanzhang, a student interested in design, coding and business.Want to know more about me, pls refer to my Resume, or send an email.The website you browsering now is my portfolio, where only things related to work, design, coding and business will be displayed. More interesting or personal affairs can be viewed at my Blog.With regard to my Works, they are mostly not intelligent or wonderful enough, but they are my thinkings and hardwork. If you could provide any suggestion, please contact me:) Many thanks! ","categories": [],
+        "title": "Hi:) Read me first or explore.",
+        "excerpt":"Hi，我叫李彦樟，是一个学生，一个对设计、代码、商业都有点兴趣的人。关于我个人更多的信息，可以去看我的中文版CV（201909），或者给我发邮件。你正在浏览的是我的中文作品集网站，英文版请点击这里，这里将只会有与设计、技术、商业有关的内容，而与我的生活、兴趣或者是其他相关的东西，你可以在我的Blog看到。而关于我的「作品」，它们虽然达不到精致或是让人惊叹的水平，但其中或多或少都有我的思考和努力，还请海涵。如果您有任何看法或者建议，请不吝赐教。 Hi, I am Li Yanzhang, a student interested in design, technology and entrepreneurship.Want to know more about me, pls refer to my CV(201909), or send an email.The website you browsing now is my Chinese portfolio, where only things related to work will be displayed. More interesting or personal affairs can be viewed at my Blog or my English Portfolio.With regard to my Works, they are mostly not intelligent or wonderful enough, but they are my thinkings and hardwork. If you could provide any suggestion, please contact me:) Many thanks! ","categories": [],
         "tags": [],
         "url": "http://localhost:4000/2019/02/17/hello-world.html"
       },{
@@ -28,9 +28,4 @@ var store = [{
         "excerpt":"A Service Design Investigation within university campus on food delivery. 针对校园外卖的服务设计走查 作为小组组长，组织校园外卖服务设计走查。项目仍在继续，此处仅做简单的结果呈现。 基本流程       头脑风暴（5W1H）：校园外卖可能存在的切入点    利益相关者与目标用户（初步划分）：点餐者（学生、老师）、送餐员、商家、外卖平台、保洁阿姨、保安等    针对点餐者（学生)与送餐员做预调研、观察、访谈，针对点餐者（学生）做问卷    利益相关者地图分析    触点分析与用户旅程地图    服务蓝图 Doing  1. 利益相关者地图   2. 点餐者用户旅程地图  3. 外卖员用户旅程地图  ","categories": [],
         "tags": [],
         "url": "http://localhost:4000/works/2019-03-15-Service-design-learning/"
-      },{
-        "title": "MakeUP - an IoT solution to cosmetics management experience",
-        "excerpt":"  ","categories": [],
-        "tags": [],
-        "url": "http://localhost:4000/works/2019-08-22-test-portfolio/"
       }]
