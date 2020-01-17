@@ -6,7 +6,7 @@ categories:
 ---
 
 Hi，我叫李彦樟，是一个学生，一个对设计、代码、商业都有点兴趣的人。<br>
-关于我个人更多的信息，可以去看我的[中文版CV（201909）](https://img.oh-eureka.com/pics/2019-09-26-CV_%E4%B8%AD%E6%96%87%E7%89%88190926.pdf)，或者给我<a href="mailto:yanzhang_li@outlook.com">发邮件</a>。<br>
+关于我个人更多的信息，可以去看我的[中文CV (2019-12)](https://img.oh-eureka.com/pics/2020-01-10-%E6%9D%8E%E5%BD%A6%E6%A8%9F%202019-12-18.pdf)，或者给我<a href="mailto:yanzhang_li@outlook.com">发邮件</a>。<br>
 <br>
 你正在浏览的是我的中文作品集网站，英文版请[点击这里](https://liyanzhang.com)，这里将只会有与设计、技术、商业有关的内容，而与我的生活、兴趣或者是其他相关的东西，你可以在我的[Blog](http://www.oh-eureka.com)看到。
 <br>

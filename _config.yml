@@ -22,14 +22,15 @@ url: "https://liyanzhang.cn" # the base hostname & protocol for your site, e.g. 
 github_username: yanzhanglee
 logo: /images/LYZ-real.jpg
 google_fonts:
+  - name: "苹方黑体"
   - name: "Source Sans Pro"
     weights: "400,400i,700,700i"
   - name: "Lora"
     weights: "400,400i,700,700i"
-read_time: true
+read_time: false
 words_per_minute: 50
 search_full_content: true
-paginate: 10
+paginate: 6
 paginate_path: /page:num/
 
 # Build settings
@@ -53,9 +54,6 @@ author:
     - title: GitHub
       url: https://github.com/yanzhanglee
       icon: fab fa-github-square
-    - title: Blog
-      url: http://www.oh-eureka.com
-      icon: fab fa-blog
 
 
 # Footer Links
@@ -66,9 +64,6 @@ footer_links:
   - title: GitHub
     url: https://github.com/yanzhanglee
     icon: fab fa-github-square
-  - title: Blog
-    url: http://www.oh-eureka.com
-    icon: fab fa-blog
 
 # Front Matter Defaults
 defaults:
@@ -95,7 +90,7 @@ collections:
     output: true
     permalink: /:collection/:path/
 
-copyright: "This site is made with *Jekyll & GitHub Page* by **Yanzhang**."
+copyright: "This site is made with Jekyll by **Yanzhang** @2019."
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
