@@ -1,10 +1,12 @@
 # Sample site navigation bar links
 
-- title: Works
+- title: Works 作品
   url: /works/
-- title: Resume
+- title: Resume 简历
   url: ./resume.html
-- title: Blog
+- title: Blog 博客
   url: http://www.oh-eureka.com
-- title: Search
+- title: Search 搜索
   url: /search/
+- title: Portfolio 英文作品集
+  url: https://liyanzhang.com

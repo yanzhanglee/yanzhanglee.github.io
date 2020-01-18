@@ -1,87 +1,143 @@
 ---
-title: "Wechat Little App - KuaKua"
+title: "KuaKua - Firt Try of WeChat Mini App"
 image: 
-  path: http://img.oh-eureka.com/pics/2019-03-06-%E9%A6%96%E9%A1%B5-3.png
-  thumbnail: http://img.oh-eureka.com/pics/2019-03-06-%E9%A6%96%E9%A1%B5-3.png
+  path: https://img.oh-eureka.com/pics/2020-01-18-kuakua-cover169.png
+  thumbnail: https://img.oh-eureka.com/pics/2020-01-18-kuakua-scover169.png
   caption: "KuaKua Little Program"
 sort_by: date
 sort_order: reverse
 ---
-**KuaKua Little App is a WeChat app which encourages users to share anything and let other users praise for it.** <br>
+**It encourages users to share anything and let other users praise for it.** <br>
 **夸夸小程序是一个用户分享内容，其他用户只能发表夸赞评论的社区**
 
-# 项目背景 Backgrounds
-2019年2月中，浙江大学同学的朋友圈被突然出现的“浙大夸夸群”刷屏了，里面充斥着欢声笑语和快乐。“浙大夸夸群”源自豆瓣“相互表扬小组”，其基本原则为任何成员都可以在其中分享自己的任何经历，而其他成员只能夸奖，不能进行任何负面评论。由于其评论之有趣，基调之欢乐，夸夸群迅速裂变，3天内就扩张至3个满员微信群，即有约1500名活跃用户。在接下来的几天里，又有包括上交、复旦、南大、清华、北大等数所大学的数十个微信群建立。
+# Overview
+## Brief Introduction
+Based on a culture phenomena (explained in **01 Background**), me and 3 teammates tried to make it a product and make profits from it. We got involved in the culture phenomena, trying to control it and make it our promotion media in the future, which was quite successful. Also, we quickly designed and developed the Wechat Mini Program and successful made profits from it. Through this project, we successfully applied for a National Innovation and Entrepreneurship Training For College Students.
 
-在首个夸夸群建立的第一天，经过体验，我们认为这是一个可以被产品化的需求，由此诞生了「夸夸」小程序。**我作为交互设计师与产品经理，合作明确了产品功能规划，设计了交互界面。**
+We finally gave up the program but learned a lot from the experience. But you can still try it by searching "夸夸" in Wechat.
 
-小程序现仍在内测阶段。
+## Highlights
+- The product design opportunity is quite different from usual products, it comes from a culture phenomena and we tried to make it a product.
+- Design to encourage users to share and comment easily, and make them feel inspired.
+- Design to make profits from ad and user services.
 
-# 需求与目标 Demand & Goal
-设计、开发并上线「夸夸」小程序的核心目标是沉积用户，一方面通过数据分析去尝试一个真实产品的运营和维护，另一方面也试图通过广告、合作、赞赏等方式获得利润。
+## Information
+Mar. 2019 - Apr. 2019 | 1 month | 4 people
 
-具体来看，在设计方面，我们需要给出完善的小程序交互及界面设计，并在开发能力不够强大不足以进行所有功能的开发的前提下，通过有效用户数据判断功能优先级。
+## My Role
+- As product manager, planned the product functions, discussed with developer on feasibility problem and planned the schedule.
+- As UX and UI designer, designed the user interaction and user interfaces, drafted the sketch and put into development.
+- Directed the National Innovation and Entrepreneurship Training For College Students, planned for more projects with teammates.
 
-**设计挑战 Design Challenges**
-- 友好、温暖的用户界面风格，符合「夸夸」的氛围
-- 在开发能力和精力有限的情况下，尽量好的用户体验，包括发帖、评论、删除、打赏、设置等基本功能的完整交互
-- 针对小程序未来功能开发优先级的用户反馈收集
-- 快速设计，需要在2-3天内完成设计稿
+# Schema
+**[01 Background](#01-background)**
+<br>
+**[02 Design Goals](#02-design-goals)**
+<br>
+**[03 Design Challenges](#03-design-challenges)**
+<br>
+**[04 Develop Plan](#04-develop-plan)**
+<br>
+**[05 Design](#05-design)**
+<br>
+**[06 Launch and Iteration](#06-launch-and-iteration)**
+<br>
+**[07 Conclusion](#07-conclusion)**
+<br>
 
-**其他挑战 Other Challenges**
-- 多个功能的开发优先级规划
-- 裂变分享与用户留存的问题
+# 01 Background
+**Wechat(微信)**: The biggest IM App in China.
 
-# 功能规划 Features Plan
-{% include toc %}
+**Wechat Mini Program**: Apps which can be used within Wechat and do not need to be downloaded and installed on the system.
 
-|全部功能|第一版功能|测试版功能|描述|
+**Moment(朋友圈)**: A function of Wechat, where users share their thoughts by publishing photos or text.
+
+During the mid-Feb. in 2019, posts about 'ZJU KuaKua Wechat group' are filled with ZJUer's moments. Those posts are all about the interesting conversation that happened in KuaKua Wechat group, which makes people laugh or feel inspired. ZJU KuaKua Wechat group originates from another group in Douban (a website and app community of sharing interests), the rule is that any member can share anything in the group especially the upset things, and other members can only comment or reply with praise.
+
+For example, when a user sent "I broke up today...", the other users can comment like "OMG, you are free now! You deserve someone better and surely you can find a true love. Sounds great!"
+
+Because of the funny and inspiring conversation, the Wechat KuaKua group soon became very popular and the groups are more and more. Within 3 days, there are more than 1500 people in the KuaKua Wechat Group in ZJU, and other universities are building up the groups as well.
+
+Our team got involved in the first KuaKua group when it set up. After experienced the rule, we considered it a workable concept which can be transferred into a product. Mini Program has 2 advantages comparing to Wechat groups, including a wider range community and less operation consumption. Thus, we tried to develop the KuaKua Wechat Mini Program.
+
+# 02 Design Goals
+Firstly, we analyzed the product goals:
+
+- To accumulate users, increase DAU.
+- To encourage users to spread and share the Mini Program.
+- To make profits through ad or paid service.
+
+Then, we clarify the design goals:
+
+- To let users easily use the Mini Program and have a better experience than Wechat groups.
+- To make users share or spread the Mini Program to increase DAU.
+
+# 03 Design Challenges
+To be specific and based on the team capability, I clarify the design challenges:
+
+- A warm and welcomed interface which creates the atmosphere of praise and inspiration.
+- A friendly interaction which encourages users to publish posts and comments, and to let users stay.
+- A completed user interaction of publishing posts, comment, deletion, reward, setting or so.
+- A feedback collection to future functions.
+- Rapid design.
+
+# 04 Develop Plan
+|All|First Version Functions|Beta Functions|Description|
 |-------|--------|--------|---|
-|登录|O|O|
-|权限设置|O|X|
-|提醒设置|O|X|
-|轮播图|O|O|用于信息发放和广告|
-|发布求夸|O|O|
-|删除求夸|O|O|
-|分享求夸|O|X|分享到聊天与生成图片分享至朋友圈两种|
-|匿名求夸|X|X|
-|夸夸别人|O|O|
-|删除夸夸|O|O|
-|赞赏夸夸|X|X|
-|匿名夸夸|X|X|
-|点赞夸夸|O|O|
-|图片支持|X|X|支持图片形式发布求夸和夸夸|
-|语音支持|X|X|支持语音形式发布求夸和夸夸|
-|我的夸夸|O|O|
-|我的求夸|O|O|
-|点赞与赞赏|O|O|
-|收到的赞赏|X|X|
-|荣誉称号体系|O|X|
-|社交体系|X|X|添加夸夸好友或添加微信好友|
-|功能反馈|O|O|用于收集用户对于功能的需求|
-|联系我们|O|O|
+|Log In|O|O|
+|Permission Setting|O|X|
+|Reminder|O|X|
+|Banner|O|O|For Ad and information allocation|
+|Publish Posts|O|O|
+|Deletion|O|O|
+|Share|O|X|Share to Moments or to groups|
+|Anonymous Publish|X|X|
+|Comment|O|O|
+|Reward Comment|X|X|
+|Anonymous Comment|X|X|
+|Like Comment|O|O|
+|Image Support|X|X||
+|Audio Support|X|X||
+|My Posts|O|O|
+|My Comments|O|O|
+|Reward and Like|O|O|
+|My Wallet|X|X|
+|Title & Honors|O|X|
+|IM|X|X|Add friends or Chat|
+|Feedback|O|O|To collect user feedback|
+|Contact Us|O|O|
 
-# 设计方案 Design
-设计方案仍在不断迭代，并在开发能力有限的情况下进行尽量的优化。
+We decided to develop the beta version firstly and have a limited test with several users. Based on the feedback, we changed our design and develop direction.
 
-### 第一版方案部分界面
+# 05 Design 
+I delivered the first version of UI in 3 days, constructing the basic functions. I would show the user-flow and demonstrate design details.
 
-![红包夸夸发布](http://img.oh-eureka.com/pics/2019-03-17-%E7%BA%A2%E5%8C%85%E5%A4%B8%E5%A4%B8%E5%8F%91%E5%B8%83%E6%B5%81%E7%A8%8B.png)
+![Publish reward posts](https://img.oh-eureka.com/pics/2019-09-04-publish%20reward%20posts-1.png)
+Adopted the most similar way to publish posts as in a Wechat group. Users can finish all the operation at the bottom of the phone.
+Users can use 'red envelope' to reward users who comment him or her with praise. This model is similar to the Red Envelope function in Wechat, so it would be easy for users to learn.
 
-采取尽可能接近微信群聊的发送方式和布局方式，让用户尽量顺畅地完成夸夸的发布
+![Comment with praise](https://img.oh-eureka.com/pics/2019-09-04-Comment%20with%20praise-1.png)
+Users can also praise other's posts. Meanwhile, your posts may be rewarded by others as long as it is interesting or inspiring.
 
+Other unimportant pages are not shown. I deliver about 30 interfaces to develop in 3 days. Waiting for the data to make iteration.
 
-![个人页面及功能反馈](http://img.oh-eureka.com/pics/2019-03-17-%E4%B8%AA%E4%BA%BA%E9%A1%B5%E9%9D%A2%E6%B5%81%E7%A8%8B.png)
+# 06 Launch and Iteration
+After developed the Mini Program, we send it to several KuaKua Wechat group to collect feedback and data.
+![data analysis](https://img.oh-eureka.com/pics/2019-09-04-data%20ana.png)
+We monitored the users' behavior and tried to figure out how to improve the Mini Program. We also collected feedback from advanced users. From the data we learned that, users are not likely to share their posts directly in their moments. And even we did not do any promotion, users are growing but hard to reserve.
 
-个人页面避免了左滑操作，并在设置页面设置了功能反馈机制
+We did several improvement and fix several bugs. More importantly, we adopted chat-bot to Mini Program, so user's posts will always have comments. The bot is not that intelligent but it is working.
 
-![发布夸夸与赞赏求夸](http://img.oh-eureka.com/pics/2019-03-17-%E5%8F%91%E5%B8%83%E5%A4%B8%E5%A4%B8%E4%B8%8E%E8%B5%9E%E8%B5%8F%E5%A4%B8%E5%A4%B8.png)
+Besides, we thought the current Mini Program is like a forum, where everything goes really slow. Users did not have the feeling that the comments and praise will be as fast as they are in a Wechat group. Even though users can view more various posts and praise, they still want the instant message feeling. Therefore, we decided to make a revolutionary improvement.
+The new Mini Program will be like chatting rooms, just like Wechat groups. But the chatting rooms will be created and destroyed shortly, making the comments rapid and interesting.
 
-发布夸夸的页面也与微信聊天输入方式类似
+The new version is shown below. But due to limited effort, we did not develop this version.
+![New version](https://img.oh-eureka.com/pics/2019-09-05-New%20version.png)
 
-# 交互学习 Learning
->经过真机测试，在测试阶段发现了很多小程序交互方面的注意事项
+# 07 Conclusion
+Comparing to ordinary App project, this project is different because:
 
-1. 在小程序的界面要尽量避免左右滑动的操作，因为在小程序里，向右滑意味着退出或者返回上一级，非常容易引发误触。
+- It is designed for build and launch.
+- Gain profits from it.
 
-![左滑误触](http://img.oh-eureka.com/pics/2019-03-12-%E9%98%B2%E8%AF%AF%E8%A7%A6%E6%93%8D%E4%BD%9C.png)
+It still exists user needs and design definition progress, but it needs a really fast developing since we need to catch the hot spot. It is my first time really design for build and launch. What's more, we did earn money from building the App, even it is not too much, but at least it means some one appreciates our work.

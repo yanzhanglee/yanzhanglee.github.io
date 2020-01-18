@@ -7,6 +7,9 @@ image:
 ---
 **A website which could evaluate the potential value of a patent.**<br>
 **一个可以衡量专利潜在价值的网站**
+
+<br/>
+
 - The website is now available. [View website](http://www.innogps.com/innovelty/index.html) <br>
 - <i class="fab fa-github"></i> [Code Resource](https://github.com/yanzhanglee/Patent-Novelty-Website)
 

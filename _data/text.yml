@@ -9,7 +9,7 @@ ch: &DEFAULT_CH
   skip_footer: "Skip to footer"
   menu_label: "Menu"
   by: "by"
-  min_read: "min read"
+  min_read: "mins read"
   read_more: "Read more&hellip;"
   categories: "Categories"
   tags: "Tags"

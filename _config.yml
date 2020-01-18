@@ -90,7 +90,7 @@ collections:
     output: true
     permalink: /:collection/:path/
 
-copyright: "This site is made with Jekyll by **Yanzhang** @2019."
+copyright: "This site is made with Jekyll by **Yanzhang** 2019 - 2020."
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
