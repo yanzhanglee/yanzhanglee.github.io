@@ -16,11 +16,11 @@
 title: YANZHANG's Portfolio
 email: yanzhang_li@outlook.com
 description: >- # this means to ignore newlines until "baseurl:"
-  李彦樟的作品集 @2019
+  李彦樟的个人网站 @2020
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://liyanzhang.cn" # the base hostname & protocol for your site, e.g. http://example.com
 github_username: yanzhanglee
-logo: /images/LYZ-real.jpg
+logo: /images/avatar.png
 google_fonts:
   - name: "苹方黑体"
   - name: "Source Sans Pro"
@@ -45,7 +45,7 @@ plugins:
 # Site Author
 author:
   name: Li Yanzhang
-  picture: ./images/LYZ.png
+  picture: ./images/avatar.png
   email: yanzhang_li@outlook.com
   links:
     - title: Instagram
@@ -54,6 +54,9 @@ author:
     - title: GitHub
       url: https://github.com/yanzhanglee
       icon: fab fa-github-square
+    - title: LinkedIn
+      url: https://www.linkedin.com/in/yanzhangli/
+      icon: fab fa-linkedin
 
 
 # Footer Links
@@ -64,6 +67,9 @@ footer_links:
   - title: GitHub
     url: https://github.com/yanzhanglee
     icon: fab fa-github-square
+  - title: LinkedIn
+    url: https://www.linkedin.com/in/yanzhangli/
+    icon: fab fa-linkedin
 
 # Front Matter Defaults
 defaults:
@@ -73,20 +79,31 @@ defaults:
       type: posts
     values:
       layout: post
-      comments: true
-      share: true
+      comments: false
+      share: false
   # Works defaults
   - scope:
       path: "_works"
       type: works
     values:
       layout: post
-      comments: true
-      share: true
+      comments: false
+      share: false
+  # GIX defaults
+  - scope:
+      path: "_gix"
+      type: gix
+    values:
+      layout: page
+      comments: false
+      share: false
 
 # Collections
 collections:
   works:
+    output: true
+    permalink: /:collection/:path/
+  gix:
     output: true
     permalink: /:collection/:path/
 
