@@ -177,17 +177,52 @@ Based on the usability test, 2 main changes are:
 
 # 04 Takeaways
 
-## Methods
-**About Defining Question**
+## 4.1 Methods
 
-**About Survey & Data Analysis**
+**4.1.1 About Defining Question**
 
-**About Multidisciplinary Collaboration**
+Scoping question is the most important and critical job to start a design or research process. Questions are everywhere, but good questions are unique and precious. From my perspective, the scope of the question is the primary issue to determine a question to be good or bad.
 
+In this design process, we spent nearly a month on scoping question to make the subject and goal more precise. The question can be divided into: **Subject(WHO) + Goal(WHAT) + WHEN(optional) + WHERE(optional)**.
 
-## Thinking
-**About Design Thinking Process**
+![](https://img.oh-eureka.com/pics/2020-12-14-question%20scope.png)
 
-**What is a good design solution**
+The Goal is changed from 'wearing masks' to 'stay safe', actually the scope is larger after we collect more information. And we removed words like 'when it is necessary' which are too vague and meaningless.
 
-**What can we improve next time**
+I find it really inspired when I reflect on how and why we change the design question, it is like I am reflecting the whole research process. What's more, we are required to 'never draw a conclusion too fast', and this is a really efficient method to prevent us from stopping information collection, and to come out with a more precious design question.
+
+**4.1.2 About Survey & Data Analysis**
+
+As a quantitative method, survey can be used to test hypothesis, get more evidence and find new insights. But the primary use is still testing hypothesis.
+
+In this design process, the survey and data analysis teaches me about 2 things:
+- **What we observed in field research might be not representative.** The observation of white-collar employee behaviors reveals that most of them usually remove their mask as soon as they arrive at their cubicles, and they would not wear masks during in-person communications. But the survey result shows that only half of employees would not wear mask.
+- **Clear hypothesis could help to generate better questionnaire.** When we did the survey data analysis, we actually figured out that we missed several questions to ask, and that is because we are not sure about the hypothesis we would like to test by the survey. If we have a clear hypothesis before we make the questionnaire, the methods may work better.
+
+**4.1.3 About Multidisciplinary Collaboration**
+
+The collaboration did not run smoothly, since all members are participating and collaborating online, and we have different background. We would often have different ideas on design solution and insights - sometimes we would have conflicting ideas on the same issue. At this stage, the thing we would do is not voting, but discussing and persuading with others. We believe that voting is not a good way to solve conflict, and through persuading and discussing, we can flatten our knowledge and understanding.
+
+Multidisciplinary collaboration strengthens the conflict while brings some benefits - the different background causes knowledge gap between us, and this gap would sometimes be inspiring. When designing the solution, I would sometimes propose a solution, but teammates disagree on this proposal. My solution would be firstly understand why they disagree on this, then convey all the information I have, and to persuade them. This process would happen on them too, and it brings deeper communication and more inspiration.
+
+## 4.2 Thinking
+**4.2.1 About Design Thinking Process**
+
+Before the course, we are more likely to divide the goal into several steps and try to realize it. I think this is good, but it is not working in design.
+
+Design is to solve wicked problems, which means there is usually more than one solution or even no solution. So, we have to think in an iterated and systematic way, to define the problem and develop the solution and even iterate for several times, and finally have a relatively better answer to the wicked problem.
+
+![](https://img.oh-eureka.com/pics/2020-12-14-design%20iteration.png)
+
+**4.2.2 What is a good design solution**
+
+Another reflection is about how do we determine a design solution to be good or not. In TA's review of our usability test report, the design of the leaderboard is doubted. The leaderboard is proposed by a participants in usability test, and reviewed and further designed by us. It is a leaderboard of the credits, where users can see themselves and other colleagues on the board. By implementing this, we would like the board to be an trigger and push users to earn more credits, and the existing of the board allow colleagues to supervise each other, since the increasing of credits should be followed with correspondent behaviors, which is visible to others. The result would be pushed to users through the IM App at the end of the day.
+
+Our team appreciate the design, and this idea is really similar to an existing design of Wechat, which is a leaderboard of how many steps each user walks. The problems TA mentioned: 1. People may ignore the board, 2. It may cause more cheating, have their possibilities and reasons.
+
+The example of this shows that a good design in our mind would not always be a good design to others. However, what is the criteria? From my previous design experience, I would like to let users to be the judge - developing a MVP, setting data indicator, launching an A/B test and let users and data to give us answer.
+
+## 4.3 Conclusion
+
+This course provides me a precious experience to learn more on design thinking and methods. I would appreciate the learning and making process, and put all I learned into my future career.
+
