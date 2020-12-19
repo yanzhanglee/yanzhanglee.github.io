@@ -22,7 +22,8 @@ url: "https://liyanzhang.cn" # the base hostname & protocol for your site, e.g. 
 github_username: yanzhanglee
 logo: /images/avatar.png
 google_fonts:
-  - name: "苹方黑体"
+  - name: "经典标宋繁"
+  - name: "思源黑体"
   - name: "Source Sans Pro"
     weights: "400,400i,700,700i"
   - name: "Lora"
@@ -108,6 +109,8 @@ collections:
     permalink: /:collection/:path/
 
 copyright: "This site is made with Jekyll by **Yanzhang** 2019 - 2020."
+
+google_analytics: G-JD7CYVX5CN
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list

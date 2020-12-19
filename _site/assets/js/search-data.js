@@ -1,6 +1,6 @@
 var store = [{
         "title": "TECHIN 510 Programming - Toki",
-        "excerpt":"","categories": [],
+        "excerpt":"Toki is a second language tutor for young children. Individual Project, 30-40 hrs, built by Javascript. Demo Video   Live Demo GO (only support Chrome) ","categories": [],
         "tags": [],
         "url": "https://liyanzhang.cn/gix/2020-12-10-programing/"
       },{
@@ -15,7 +15,7 @@ var store = [{
         "url": "https://liyanzhang.cn/gix/2020-12-13-designthinking/"
       },{
         "title": "Hi! I am Yanzhang.",
-        "excerpt":"Hi！我叫李彦樟，一个22届毕业的学生，一个做产品的人。本科在浙大读工业设计，硕士在清华和华盛顿大学的全球创新学院（GIX）修读一个双学位的项目。你正在浏览的是我的中文作品集，英文版请点击这里。关于我的「作品」，在2020年初就很少更新了。在GIX读研究生的项目，可以在@GIX查看。它们虽然达不到精致或是让人惊叹的水平，但其中或多或少都有我的思考和努力，还请海涵。如果您有任何看法或者建议，请不吝赐教。更多日常在 即刻App @Yanzhang，欢迎交流。 ","categories": ["intro"],
+        "excerpt":"Hi！我叫李彦樟，一个22届毕业的学生，一个做产品的人。本科在浙大读工业设计，硕士在清华和华盛顿大学的全球创新学院（GIX）修读一个双学位的项目，是一个对产品设计和商业逻辑都有点兴趣的人。你正在浏览的是我的中文作品集，英文版请点击这里。关于我的「作品」，在2020年初就很少更新了。在GIX读研究生的项目，可以在@GIX查看。它们虽然达不到精致或是让人惊叹的水平，但其中或多或少都有我的思考和努力，还请海涵。如果您有任何看法或者建议，请不吝赐教。更多日常在 即刻App @Yanzhang，欢迎交流。 ","categories": ["intro"],
         "tags": [],
         "url": "https://liyanzhang.cn/intro/2020/12/12/hello-world.html"
       },{
