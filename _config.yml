@@ -58,6 +58,9 @@ author:
     - title: LinkedIn
       url: https://www.linkedin.com/in/yanzhangli/
       icon: fab fa-linkedin
+    - title: JIKE
+      url: https://web.okjike.com/u/B8D9E902-BB3C-4AE2-88CC-3830D96271D6
+      icon: fas fa-rss-square
 
 
 # Footer Links
@@ -71,6 +74,9 @@ footer_links:
   - title: LinkedIn
     url: https://www.linkedin.com/in/yanzhangli/
     icon: fab fa-linkedin
+  - title: JIKE
+    url: https://web.okjike.com/u/B8D9E902-BB3C-4AE2-88CC-3830D96271D6
+    icon: fas fa-rss-square
 
 # Front Matter Defaults
 defaults:
