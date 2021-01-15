@@ -1,0 +1,128 @@
+I"�<p><strong>an App and service design to improve micro-district community atmosphere.</strong> <br />
+<strong>有缘共邻里，何不来相聚</strong></p>
+
+<blockquote>
+  <p>如果你使用的是MacOS，可以直接<a href="https://drive.google.com/file/d/1i6nQxkk210yPxEp2rK_h2DwvjCcvm1zb/view?usp=sharing">下载可交互原型</a>进行体验.
+<img src="https://img.oh-eureka.com/pics/2019-09-05-illustrator.png" alt="illustrator" /></p>
+</blockquote>
+
+<h1 id="overview">Overview</h1>
+<h2 id="brief-introduction">Brief Introduction</h2>
+<p>邻聚(Lin-ju),邻 stands for neighbors and 聚 stands for reunion, so name it Neighbor-Reunion in English. This design comes from the User Experience Design Award, where we did users and business research, brainstorm, interaction design, visual design, shooting and making videos to deliver our ideas. From the preliminary	contest, intermediary contest and final contest, we finally won the National 3rd Prize, ranking top 20 out of 500+ teams.</p>
+
+<p>Based on our research, we try to use design to improve the community atmosphere, encouraging tenements to communicate and making the best use of resources from tenements, residential property management company and surrounding stores.</p>
+
+<h2 id="highlights">Highlights</h2>
+<ul>
+  <li>A very completed research and design process.</li>
+  <li>Interesting new experience and interaction by adopting advanced technology.</li>
+</ul>
+
+<h2 id="information">Information</h2>
+<p>Mar. 2019 - Jul. 2019 | 4 months | 7 people</p>
+
+<h2 id="my-role">My Role</h2>
+<ul>
+  <li>As team leader, schedule and manage the design process, including meetings, allocating work, making decisions or so.</li>
+  <li>As User Experience Designer, offered valuable suggestions and ideas to functions and interactions. Delivered more than 50 interaction interfaces.</li>
+</ul>
+
+<h1 id="schema">Schema</h1>
+
+<h1 id="01-background">01 Background</h1>
+<ul>
+  <li>User perspective: In modern cities, residents live in micro-districts or communities, spending their nights and weekends at their house. However, there are reports pointing out that neighbors are being more and more unfamiliar with each other. Residents tend to stay in their houses, but many of them actually have a desire to make friends. Also, new members of the community need opportunities to fit in. Meanwhile, there are activities in communities or micro-districts, but the types are limited and management is terrible.</li>
+  <li>Technical perspective: Existing products has experience problems, since they do not connect well with the residential property management company and do not well-operated. Since residents live in a community, they must have something in common like salary, taste or work. With those similarity, it would be easier for them to make friends.</li>
+  <li>Market perspective: There are idle resources around the community, like community space or surrounding cafe, stores. Those resources can be used better.</li>
+</ul>
+
+<h1 id="02-research">02 Research</h1>
+
+<h2 id="21-competing-products-analysis">2.1 Competing Products Analysis</h2>
+<p>We collected more than 10 related Apps on App Store, analyzed them from many dimensions. The result is:</p>
+<ul>
+  <li>Those Apps are lack of cooperation with stakeholders, functions are single or unreliable.</li>
+  <li>The emotional and interactive experience is poor and incentive mechanism is lacking.</li>
+</ul>
+
+<p><img src="https://img.oh-eureka.com/pics/2019-09-05-%E7%AB%9E%E5%93%81%E5%88%86%E6%9E%90.png" alt="Competing Product Analysis" /></p>
+
+<h2 id="22-user-research">2.2 User Research</h2>
+<p>We collected 379 effective questionnaires and analyzed the answer, then interviewed 12 people for further understanding.</p>
+
+<p>The fillers’ age ranges from 27 to 53, with 28% male. The fillers are mostly from advanced cities in China such as Guangzhou, Hangzhou, Ningbo, Weihai or so.</p>
+
+<p>The result turns out to be:</p>
+<ul>
+  <li>Rewards and free-participation can improve the desire of participating an activity. Sponsors or being-welcomed can improve the desire of holding an activity.</li>
+  <li>The residents who might become our target users can be divided into 3 kinds. The possible activities can be divided into 6 kinds.</li>
+</ul>
+
+<p><img src="https://img.oh-eureka.com/pics/2019-09-05-%E9%97%AE%E5%8D%B7.png" alt="questionnaire" /></p>
+
+<h2 id="user-experience-analysis">User Experience Analysis</h2>
+<p>According to the previous investigation, we used user journey, stakeholders map and other methods to analyzed the possible emotional design opportunities.</p>
+
+<p>The emotional low points would be turned into design opportunities and be considered in further design.</p>
+
+<p><img src="https://img.oh-eureka.com/pics/2019-09-05-%E7%94%A8%E6%88%B7%E4%BD%93%E9%AA%8C.png" alt="journey" /></p>
+
+<p>Based on the analysis, we defined the functions of the Neighbor-Reunion App. With the core functions of <strong>holding activities, participating activities, community moments</strong>.</p>
+
+<p>We also set up the design impression: United, Kind and Connected.</p>
+
+<p>Last but not the least, the design should:</p>
+
+<ul>
+  <li>consider stakeholders, including residents, residential property management company, community, surrounding stores,</li>
+  <li>create UGC platform to increase user stickiness,</li>
+  <li>include the incentive mechanism,</li>
+  <li>improve the experience of holding and participating activities.</li>
+</ul>
+
+<h1 id="03-design-output">03 Design Output</h1>
+<p>The design aims at answering 2 key problems:</p>
+
+<ul>
+  <li>How does Neighbor-Reunion help to build a community ecology?</li>
+  <li>How does Neighbor-Reunion attract residents to use?</li>
+</ul>
+
+<h2 id="31-function-structure">3.1 Function Structure</h2>
+<p>With regard to key functions, I listed the functions structure and information that needs to be displayed.</p>
+
+<p><img src="https://img.oh-eureka.com/pics/2019-09-05-%E5%8A%9F%E8%83%BD%E6%A1%86%E6%9E%B6.png" alt="Structure" /></p>
+
+<h2 id="32-interaction-design">3.2 Interaction Design</h2>
+<p><img src="https://img.oh-eureka.com/pics/2020-01-18-%E4%BA%A4%E4%BA%92%E6%B5%81%E7%A8%8B-%E9%BB%91.png" alt="Interaction" /></p>
+
+<p>I designed the information structure and interaction for each function.</p>
+
+<p>After discussing with teammates and judges, we iterated our design for several times. Later, I assisted visual designer to deliver visual design.</p>
+
+<p><img src="https://img.oh-eureka.com/pics/2019-09-05-%E8%A7%86%E8%A7%89%E7%A8%BF.png" alt="Visual Design" /></p>
+
+<h2 id="33-shiny-and-innovative-points">3.3 Shiny and Innovative Points</h2>
+
+<ul>
+  <li><strong>AI empowers design</strong>
+    <ul>
+      <li>Adopted AI to use voice input for elder users to enter activity information. When users are setting up an activity, they can choose to use voice assistant. The App will ask user questions about the activity, so users just need to describe the activity to the App.</li>
+      <li>Adopted AI to recommend users and moments to neighbors.</li>
+      <li>Adopted AI to generate news about each activity. The material will be collected from user’s activity group chat as long as allowed. The news can help to increase the sense of participation.</li>
+    </ul>
+  </li>
+  <li><strong>Resource Integration empowers design</strong>
+    <ul>
+      <li>Use the idle resources like idle space from community and surrounding stores or cafes, exchanging for advertisement.</li>
+      <li>Satisfy the needs from residents, stores and community, trying to build a better atmosphere for sharing.</li>
+    </ul>
+  </li>
+</ul>
+
+<h1 id="04-conclusion">04 Conclusion</h1>
+<p>It is a completed design process which I led. The design is not perfect and the solution may be not that feasible. And also, it is not and never will be developed.</p>
+
+<p>The pain point is the current situation of chinese community, but our solution is not integrated enough. To solve the problem better, an App is not enough and staying indoor and imaging is not enough. To better solve the related problems, we may go deeper into the real community and try to design from every perspective with more abundant forms.</p>
+
+:ET

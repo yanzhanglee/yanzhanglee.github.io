@@ -15,9 +15,9 @@
 
   
     
-    <!-- Begin Jekyll SEO tag v2.5.0 -->
+    <!-- Begin Jekyll SEO tag v2.7.1 -->
 <title>Android App - Class Attendance Assistant | YANZHANG’s Portfolio</title>
-<meta name="generator" content="Jekyll v3.7.3" />
+<meta name="generator" content="Jekyll v4.1.1" />
 <meta property="og:title" content="Android App - Class Attendance Assistant" />
 <meta name="author" content="Li Yanzhang" />
 <meta property="og:locale" content="en_US" />
@@ -29,8 +29,11 @@
 <meta property="og:image" content="http://img.oh-eureka.com/pics/2019-03-02-poster.jpg" />
 <meta property="og:type" content="article" />
 <meta property="article:published_time" content="2019-03-02T00:00:00+08:00" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta property="twitter:image" content="http://img.oh-eureka.com/pics/2019-03-02-poster.jpg" />
+<meta property="twitter:title" content="Android App - Class Attendance Assistant" />
 <script type="application/ld+json">
-{"publisher":{"@type":"Organization","logo":{"@type":"ImageObject","url":"https://liyanzhang.cn/images/avatar.png"},"name":"Li Yanzhang"},"author":{"@type":"Person","name":"Li Yanzhang"},"url":"https://liyanzhang.cn/works/2019-03-02-class-attendance-android-app/","image":{"thumbnail":"http://img.oh-eureka.com/pics/2019-03-04-mini-size.gif","caption":"Android App","url":"http://img.oh-eureka.com/pics/2019-03-02-poster.jpg","@type":"imageObject"},"datePublished":"2019-03-02T00:00:00+08:00","headline":"Android App - Class Attendance Assistant","dateModified":"2019-03-02T00:00:00+08:00","description":"An Android App sulution to class attendance and more. 一个旨在解决课堂签到问题的安卓App","mainEntityOfPage":{"@type":"WebPage","@id":"https://liyanzhang.cn/works/2019-03-02-class-attendance-android-app/"},"@type":"BlogPosting","@context":"http://schema.org"}</script>
+{"url":"https://liyanzhang.cn/works/2019-03-02-class-attendance-android-app/","author":{"@type":"Person","name":"Li Yanzhang"},"image":{"thumbnail":"http://img.oh-eureka.com/pics/2019-03-04-mini-size.gif","caption":"Android App","url":"http://img.oh-eureka.com/pics/2019-03-02-poster.jpg","@type":"imageObject"},"headline":"Android App - Class Attendance Assistant","dateModified":"2019-03-02T00:00:00+08:00","datePublished":"2019-03-02T00:00:00+08:00","publisher":{"@type":"Organization","logo":{"@type":"ImageObject","url":"https://liyanzhang.cn/images/avatar.png"},"name":"Li Yanzhang"},"description":"An Android App sulution to class attendance and more. 一个旨在解决课堂签到问题的安卓App","mainEntityOfPage":{"@type":"WebPage","@id":"https://liyanzhang.cn/works/2019-03-02-class-attendance-android-app/"},"@type":"BlogPosting","@context":"https://schema.org"}</script>
 <!-- End Jekyll SEO tag -->
 
 
@@ -48,19 +51,11 @@
   
     <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=经典标宋繁|思源黑体|Source+Sans+Pro:400,400i,700,700i|Lora:400,400i,700,700i">
   <link rel="alternate" type="application/atom+xml" title="YANZHANG&#39;s Portfolio" href="/feed.xml">
-<script>
-    var _hmt = _hmt || [];
-    (function() {
-      var hm = document.createElement("script");
-      hm.src = "https://hm.baidu.com/hm.js?329dfb31b1895c4b3526d614b37c45bc";
-      var s = document.getElementsByTagName("script")[0]; 
-      s.parentNode.insertBefore(hm, s);
-    })();
-</script>
-    
-<head>
-<link rel="shortcut icon" href="../favicon.ico">
-</head>
+<!-- start custom head snippets -->
+
+<!-- insert favicons. use http://realfavicongenerator.net/ -->
+
+<!-- end custom head snippets -->
 
 </head>
 
@@ -189,13 +184,13 @@ Please refer to the poster to have a glance on the project.
 
 <h2 id="android-app-安卓app">Android App 安卓App</h2>
 <p>安卓App从主要有四个功能，其一为显示最近的课程的倒计时，并实时从服务器获取同学的签到状态，将签到的同学用RecyclerView显示在界面上；其二为过去所有课程的CardView，从本地Json文件获取课程信息，进行处理后显示。数据结构如下：</p>
-<div class="language-json highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="p">{</span><span class="w"> </span><span class="s2">"name"</span><span class="p">:</span><span class="w"> </span><span class="s2">"50.001 Introduction to Information System and Programming"</span><span class="p">,</span><span class="w">
-    </span><span class="s2">"session"</span><span class="p">:</span><span class="w"> </span><span class="s2">"CI01"</span><span class="p">,</span><span class="w">
-    </span><span class="s2">"date"</span><span class="p">:</span><span class="w"> </span><span class="s2">"11/12/2018"</span><span class="p">,</span><span class="w">
-    </span><span class="s2">"timing"</span><span class="p">:</span><span class="w"> </span><span class="s2">"09:00"</span><span class="p">,</span><span class="w">
-    </span><span class="s2">"venue"</span><span class="p">:</span><span class="w"> </span><span class="s2">"2.502, SUTD"</span><span class="p">,</span><span class="w">
-    </span><span class="s2">"studentNumber"</span><span class="p">:</span><span class="s2">"50"</span><span class="p">,</span><span class="w">
-    </span><span class="s2">"studentStatus"</span><span class="p">:{</span><span class="s2">"LiYanzhang"</span><span class="p">:</span><span class="s2">"True"</span><span class="p">,</span><span class="s2">"WangTianduo"</span><span class="p">:</span><span class="s2">"False"</span><span class="p">,</span><span class="s2">"TangXiaoyue"</span><span class="p">:</span><span class="s2">"False"</span><span class="p">,</span><span class="s2">"visitor"</span><span class="p">:</span><span class="s2">"True"</span><span class="p">,</span><span class="s2">"visitor"</span><span class="p">:</span><span class="s2">"True"</span><span class="p">,</span><span class="s2">"visitor"</span><span class="p">:</span><span class="s2">"True"</span><span class="p">,</span><span class="s2">"visitor"</span><span class="p">:</span><span class="s2">"True"</span><span class="p">,</span><span class="s2">"visitor"</span><span class="p">:</span><span class="s2">"True"</span><span class="p">,</span><span class="s2">"visitor"</span><span class="p">:</span><span class="s2">"True"</span><span class="p">,</span><span class="s2">"student1"</span><span class="p">:</span><span class="s2">"False"</span><span class="p">,</span><span class="s2">"student2"</span><span class="p">:</span><span class="s2">"False"</span><span class="p">,</span><span class="s2">"student3"</span><span class="p">:</span><span class="s2">"False"</span><span class="p">,</span><span class="s2">"student4"</span><span class="p">:</span><span class="s2">"False"</span><span class="p">,</span><span class="s2">"student5"</span><span class="p">:</span><span class="s2">"False"</span><span class="p">,</span><span class="s2">"student6"</span><span class="p">:</span><span class="s2">"False"</span><span class="p">}},</span><span class="w">
+<div class="language-json highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="p">{</span><span class="w"> </span><span class="nl">"name"</span><span class="p">:</span><span class="w"> </span><span class="s2">"50.001 Introduction to Information System and Programming"</span><span class="p">,</span><span class="w">
+    </span><span class="nl">"session"</span><span class="p">:</span><span class="w"> </span><span class="s2">"CI01"</span><span class="p">,</span><span class="w">
+    </span><span class="nl">"date"</span><span class="p">:</span><span class="w"> </span><span class="s2">"11/12/2018"</span><span class="p">,</span><span class="w">
+    </span><span class="nl">"timing"</span><span class="p">:</span><span class="w"> </span><span class="s2">"09:00"</span><span class="p">,</span><span class="w">
+    </span><span class="nl">"venue"</span><span class="p">:</span><span class="w"> </span><span class="s2">"2.502, SUTD"</span><span class="p">,</span><span class="w">
+    </span><span class="nl">"studentNumber"</span><span class="p">:</span><span class="s2">"50"</span><span class="p">,</span><span class="w">
+    </span><span class="nl">"studentStatus"</span><span class="p">:{</span><span class="nl">"LiYanzhang"</span><span class="p">:</span><span class="s2">"True"</span><span class="p">,</span><span class="nl">"WangTianduo"</span><span class="p">:</span><span class="s2">"False"</span><span class="p">,</span><span class="nl">"TangXiaoyue"</span><span class="p">:</span><span class="s2">"False"</span><span class="p">,</span><span class="nl">"visitor"</span><span class="p">:</span><span class="s2">"True"</span><span class="p">,</span><span class="nl">"visitor"</span><span class="p">:</span><span class="s2">"True"</span><span class="p">,</span><span class="nl">"visitor"</span><span class="p">:</span><span class="s2">"True"</span><span class="p">,</span><span class="nl">"visitor"</span><span class="p">:</span><span class="s2">"True"</span><span class="p">,</span><span class="nl">"visitor"</span><span class="p">:</span><span class="s2">"True"</span><span class="p">,</span><span class="nl">"visitor"</span><span class="p">:</span><span class="s2">"True"</span><span class="p">,</span><span class="nl">"student1"</span><span class="p">:</span><span class="s2">"False"</span><span class="p">,</span><span class="nl">"student2"</span><span class="p">:</span><span class="s2">"False"</span><span class="p">,</span><span class="nl">"student3"</span><span class="p">:</span><span class="s2">"False"</span><span class="p">,</span><span class="nl">"student4"</span><span class="p">:</span><span class="s2">"False"</span><span class="p">,</span><span class="nl">"student5"</span><span class="p">:</span><span class="s2">"False"</span><span class="p">,</span><span class="nl">"student6"</span><span class="p">:</span><span class="s2">"False"</span><span class="p">}}</span><span class="err">,</span><span class="w">
 </span></code></pre></div></div>
 <p>其三为日历，同样是将本地Json文件中的课程数据提取并显示在对应的日历上；其四是为了现场Demo效果的功能，可以现场向Face++和SQL database添加人脸与Id，并且现场演示签到成功。</p>
 

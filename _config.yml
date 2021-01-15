@@ -16,7 +16,7 @@
 title: YANZHANG's Portfolio
 email: yanzhang_li@outlook.com
 description: >- # this means to ignore newlines until "baseurl:"
-  李彦樟的个人网站 @2020
+  彦樟的个人网站 @2021
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://liyanzhang.cn" # the base hostname & protocol for your site, e.g. http://example.com
 github_username: yanzhanglee
