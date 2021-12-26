@@ -16,13 +16,12 @@
 title: YANZHANG's Portfolio
 email: yanzhang_li@outlook.com
 description: >- # this means to ignore newlines until "baseurl:"
-  彦樟的个人网站 @2021
+  彦樟的个人网站 @2019-2022
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://liyanzhang.cn" # the base hostname & protocol for your site, e.g. http://example.com
 github_username: yanzhanglee
 logo: /images/avatar.png
 google_fonts:
-  - name: "经典标宋繁"
   - name: "思源黑体"
   - name: "Source Sans Pro"
     weights: "400,400i,700,700i"
@@ -33,10 +32,11 @@ words_per_minute: 50
 search_full_content: true
 paginate: 6
 paginate_path: /page:num/
+skin: "/assets/css/skins/default.css"
 
 # Build settings
 markdown: kramdown
-remote_theme: "mmistakes/so-simple-theme"
+remote_theme: "mmistakes/so-simple-theme@3.2.0"
 plugins:
   - jekyll-seo-tag
   - jekyll-sitemap
@@ -61,6 +61,9 @@ author:
     - title: JIKE
       url: https://web.okjike.com/u/B8D9E902-BB3C-4AE2-88CC-3830D96271D6
       icon: fas fa-rss-square
+    - title: MaiMai
+      url: https://maimai.cn/contact/share/card?u=ifbrqwjtfnv5&_share_channel=copy_link
+      icon: fas fa-id-card-alt
 
 
 # Footer Links
@@ -77,12 +80,15 @@ footer_links:
   - title: JIKE
     url: https://web.okjike.com/u/B8D9E902-BB3C-4AE2-88CC-3830D96271D6
     icon: fas fa-rss-square
+  - title: MaiMai
+    url: https://maimai.cn/contact/share/card?u=ifbrqwjtfnv5&_share_channel=copy_link
+    icon: fas fa-id-card-alt
 
 # Front Matter Defaults
 defaults:
   # Post defaults
   - scope:
-      path: "_posts"
+      path: "_posts/2020-01-17-hello-world.markdown"
       type: posts
     values:
       layout: post
@@ -114,9 +120,9 @@ collections:
     output: true
     permalink: /:collection/:path/
 
-copyright: "This site is made with Jekyll by **Yanzhang** 2019 - 2020."
+copyright: "Copyright © 2019-2022 Yanzhang Li. All rights reserved. "
 
-google_analytics: G-JD7CYVX5CN
+google_analytics: UA-185838110-1
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list

@@ -1,4 +1,17 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.1.1">Jekyll</generator><link href="https://liyanzhang.cn/feed.xml" rel="self" type="application/atom+xml" /><link href="https://liyanzhang.cn/" rel="alternate" type="text/html" /><updated>2021-01-29T23:13:23+08:00</updated><id>https://liyanzhang.cn/feed.xml</id><title type="html">YANZHANG’s Portfolio</title><subtitle>彦樟的个人网站 @2021</subtitle><author><name>Li Yanzhang</name><email>yanzhang_li@outlook.com</email></author><entry><title type="html">Hi! I am Yanzhang.</title><link href="https://liyanzhang.cn/intro/2020/12/12/hello-world.html" rel="alternate" type="text/html" title="Hi! I am Yanzhang." /><published>2020-12-12T00:00:00+08:00</published><updated>2020-12-12T00:00:00+08:00</updated><id>https://liyanzhang.cn/intro/2020/12/12/hello-world</id><content type="html" xml:base="https://liyanzhang.cn/intro/2020/12/12/hello-world.html">&lt;p&gt;Hi！我叫李彦樟，一个22届毕业的学生，一个做产品的人。&lt;br /&gt;
-本科在浙大读工业设计，硕士在清华和华盛顿大学的全球创新学院（GIX）修读一个双学位的项目，是一个对产品设计和商业逻辑都有点兴趣的人。你正在浏览的是我的中文作品集，英文版请&lt;a href=&quot;https://liyanzhang.com&quot;&gt;点击这里&lt;/a&gt;。&lt;br /&gt;
-关于我的「&lt;a href=&quot;https://liyanzhang.cn/works/&quot;&gt;作品&lt;/a&gt;」，在2020年初就很少更新了。在GIX读研究生的项目，可以在&lt;a href=&quot;https://liyanzhang.cn/gix/&quot;&gt;@GIX&lt;/a&gt;查看。它们虽然达不到精致或是让人惊叹的水平，但其中或多或少都有我的思考和努力，还请海涵。如果您有任何看法或者建议，请不吝赐教。&lt;br /&gt;
-更多日常在 &lt;a href=&quot;https://web.okjike.com/u/B8D9E902-BB3C-4AE2-88CC-3830D96271D6&quot;&gt;即刻App @Yanzhang&lt;/a&gt;，欢迎交流。&lt;/p&gt;</content><author><name>Li Yanzhang</name><email>yanzhang_li@outlook.com</email></author><category term="intro" /><summary type="html">Hi！我叫李彦樟，一个22届毕业的学生，一个做产品的人。 本科在浙大读工业设计，硕士在清华和华盛顿大学的全球创新学院（GIX）修读一个双学位的项目，是一个对产品设计和商业逻辑都有点兴趣的人。你正在浏览的是我的中文作品集，英文版请点击这里。 关于我的「作品」，在2020年初就很少更新了。在GIX读研究生的项目，可以在@GIX查看。它们虽然达不到精致或是让人惊叹的水平，但其中或多或少都有我的思考和努力，还请海涵。如果您有任何看法或者建议，请不吝赐教。 更多日常在 即刻App @Yanzhang，欢迎交流。</summary></entry></feed>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2021-12-26T15:20:22+08:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">YANZHANG’s Portfolio</title><subtitle>彦樟的个人网站 @2019-2022</subtitle><author><name>Li Yanzhang</name><email>yanzhang_li@outlook.com</email></author><entry><title type="html">Hii! I am Yanzhang</title><link href="http://localhost:4000/intro/2021/12/25/hello-world.html" rel="alternate" type="text/html" title="Hii! I am Yanzhang" /><published>2021-12-25T00:00:00+08:00</published><updated>2021-12-25T00:00:00+08:00</updated><id>http://localhost:4000/intro/2021/12/25/hello-world</id><content type="html" xml:base="http://localhost:4000/intro/2021/12/25/hello-world.html">&lt;p class=&quot;text-center&quot;&gt;😀
+&lt;br /&gt;
+你好！我叫李彦樟！&lt;/p&gt;
+&lt;p class=&quot;text-center&quot;&gt;&lt;br /&gt;
+🔦
+&lt;br /&gt;
+广州人，本科在杭州的浙江大学读工业设计，硕士在清华大学和华盛顿大学的全球创新学院（GIX）修读“智慧互联”的双学位项目，是一个对设计、技术、商业、投资都有一些兴趣的人。
+你正在浏览的是我的个人网站，英文版请&lt;a href=&quot;https://liyanzhang.com&quot;&gt;点击这里&lt;/a&gt;。
+&lt;br /&gt;
+了解我或者联系我，点击&lt;a href=&quot;/aboutMe&quot;&gt;这里&lt;/a&gt;看看。&lt;/p&gt;
+&lt;p class=&quot;text-center&quot;&gt;&lt;br /&gt;
+💡
+&lt;br /&gt;
+关于我的「&lt;a href=&quot;/works/&quot;&gt;作品&lt;/a&gt;」，由于时间精力以及业务性质，在2020年后就很少更新了。
+在GIX的部分课程项目，可以在&lt;a href=&quot;/gix/&quot;&gt;@GIX&lt;/a&gt;查看。
+我用语雀和Notion当&lt;a href=&quot;https://www.yuque.com/liyanzhang/thinking&quot;&gt;博客&lt;/a&gt;，一些文章会发布在上面。
+更多日常的想法则分享在 &lt;a href=&quot;https://web.okjike.com/u/B8D9E902-BB3C-4AE2-88CC-3830D96271D6&quot;&gt;即刻App @Yanzhang&lt;/a&gt;，欢迎和我交流。&lt;/p&gt;</content><author><name>Li Yanzhang</name><email>yanzhang_li@outlook.com</email></author><category term="intro" /><summary type="html">😀 你好！我叫李彦樟！ 🔦 广州人，本科在杭州的浙江大学读工业设计，硕士在清华大学和华盛顿大学的全球创新学院（GIX）修读“智慧互联”的双学位项目，是一个对设计、技术、商业、投资都有一些兴趣的人。 你正在浏览的是我的个人网站，英文版请点击这里。 了解我或者联系我，点击这里看看。 💡 关于我的「作品」，由于时间精力以及业务性质，在2020年后就很少更新了。 在GIX的部分课程项目，可以在@GIX查看。 我用语雀和Notion当博客，一些文章会发布在上面。 更多日常的想法则分享在 即刻App @Yanzhang，欢迎和我交流。</summary></entry></feed>
