@@ -13,7 +13,6 @@ This is a major course - **Design Psychology** for sophormore students in Indust
 I would show the design process by slides. Apologize for its language for now, since I do not have time to translate it yet.<br>
 
 
-
 ![幻灯片02](http://img.oh-eureka.com/pics/2019-03-02-81202.jpg)
 
 ![幻灯片03](http://img.oh-eureka.com/pics/2019-03-02-081200.jpg)
