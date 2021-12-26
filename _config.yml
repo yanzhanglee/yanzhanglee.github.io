@@ -14,7 +14,10 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-remote_theme: "mmistakes/so-simple-theme"
+# theme: jekyll-theme-so-simple
+remote_theme: mmistakes/so-simple-theme
+# skin: "/assets/css/skins/default.css"
+# locale: en-US
 
 title: YANZHANG's Portfolio
 email: yanzhang_li@outlook.com
