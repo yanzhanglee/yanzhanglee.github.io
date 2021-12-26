@@ -13,6 +13,9 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
+
+remote_theme: "mmistakes/so-simple-theme@3.2.0"
+
 title: YANZHANG's Portfolio
 email: yanzhang_li@outlook.com
 description: >- # this means to ignore newlines until "baseurl:"
@@ -35,7 +38,6 @@ skin: "/assets/css/skins/default.css"
 
 # Build settings
 markdown: kramdown
-remote_theme: "mmistakes/so-simple-theme@3.2.0"
 plugins:
   - jekyll-seo-tag
   - jekyll-sitemap
