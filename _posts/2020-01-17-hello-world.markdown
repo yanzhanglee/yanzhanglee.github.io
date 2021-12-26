@@ -8,7 +8,7 @@ categories: intro
 😀
 <br>
 你好！我叫李彦樟！
-{: .text-center}
+<br>
 <br>
 🔦
 <br>
@@ -16,7 +16,7 @@ categories: intro
 你正在浏览的是我的个人网站，英文版请[点击这里](https://liyanzhang.com)。
 <br>
 了解我或者联系我，点击[这里](/aboutMe)看看。
-{: .text-center}
+<br>
 <br>
 💡
 <br>
@@ -24,4 +24,3 @@ categories: intro
 在GIX的部分课程项目，可以在[@GIX](/gix/)查看。
 我用语雀和Notion当[博客](https://www.yuque.com/liyanzhang/thinking)，一些文章会发布在上面。
 更多日常的想法则分享在 [即刻App @Yanzhang](https://web.okjike.com/u/B8D9E902-BB3C-4AE2-88CC-3830D96271D6)，欢迎和我交流。
-{: .text-center}

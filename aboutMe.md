@@ -6,8 +6,8 @@ title: About Me
 
 看看我的一些想法和牢骚：
 
-[即刻App @Yanzhang](https://web.okjike.com/u/B8D9E902-BB3C-4AE2-88CC-3830D96271D6){:.btn .btn--warning} &emsp;
-[语雀博客 @Yanzhang](https://www.yuque.com/books/share/ff470c9b-ee00-4d7c-bad4-29311284e058?#){:.btn .btn--success}
+[即刻 @Yanzhang](https://web.okjike.com/u/B8D9E902-BB3C-4AE2-88CC-3830D96271D6){:.btn .btn--warning} &emsp;
+[语雀 @Yanzhang](https://www.yuque.com/books/share/ff470c9b-ee00-4d7c-bad4-29311284e058?#){:.btn .btn--success}
 
 直接联系我：
 - 📩 邮箱: yanzhang_li@outlook.com
@@ -16,11 +16,15 @@ title: About Me
 <br>
 
 ## 🎓 教育经历
-- **硕士** 2020-2022 理学硕士 清华大学全球创新学院-数据科学与信息技术
-- **硕士** 2020-2021 理学硕士 华盛顿大学全球创新学院-科技创新
-- **本科交换项目**  2018 新加坡科技设计大学-信息技术
-- **本科** 2016-2020 工学学士  浙江大学-计算机科学与技术学院-工业设计
-- **以前** ~2016 广州市执信中学 广州市外国语学校
+**硕士** 2020-2022 理学硕士 清华大学全球创新学院-数据科学与信息技术
+
+**硕士** 2020-2021 理学硕士 华盛顿大学全球创新学院-科技创新
+
+**本科交换项目**  2018 新加坡科技设计大学-信息技术
+
+**本科** 2016-2020 工学学士  浙江大学-计算机科学与技术学院-工业设计
+
+**以前** ~2016 广州市执信中学 广州市外国语学校
 
 <br>
 
