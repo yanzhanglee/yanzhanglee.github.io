@@ -1,8 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
-<loc>https://liyanzhang.cn/intro/2023/03/25/hello-world.html</loc>
-<lastmod>2023-03-25T00:00:00+08:00</lastmod>
+<loc>https://liyanzhang.cn/gix/2020-12-10-programing/</loc>
+<lastmod>2020-12-10T00:00:00+08:00</lastmod>
+</url>
+<url>
+<loc>https://liyanzhang.cn/gix/2020-12-11-fab/</loc>
+<lastmod>2020-12-11T00:00:00+08:00</lastmod>
+</url>
+<url>
+<loc>https://liyanzhang.cn/gix/2020-12-13-designthinking/</loc>
+<lastmod>2020-12-13T00:00:00+08:00</lastmod>
+</url>
+<url>
+<loc>https://liyanzhang.cn/intro/2021/12/25/hello-world.html</loc>
+<lastmod>2021-12-25T00:00:00+08:00</lastmod>
 </url>
 <url>
 <loc>https://liyanzhang.cn/works/2018-01-26-design-psychology/</loc>
@@ -45,10 +57,10 @@
 <lastmod>2021-01-15T00:00:00+08:00</lastmod>
 </url>
 <url>
-<loc>https://liyanzhang.cn/about/</loc>
+<loc>https://liyanzhang.cn/aboutMe.html</loc>
 </url>
 <url>
-<loc>https://liyanzhang.cn/aboutMe.html</loc>
+<loc>https://liyanzhang.cn/gix/</loc>
 </url>
 <url>
 <loc>https://liyanzhang.cn/</loc>

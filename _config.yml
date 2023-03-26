@@ -7,25 +7,26 @@
 #
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # 'bundle exec jekyll serve'. If you change this file, please restart the server process.
-#
-# If you need help with YAML syntax, here are some quick references for you:
-# https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
-# https://learnxinyminutes.com/docs/yaml/
-#
+
 # Site settings
 # These are used to personalize your new site. If you look in the HTML files,
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
+# theme: jekyll-theme-so-simple
+remote_theme: mmistakes/so-simple-theme
+# skin: "/assets/css/skins/default.css"
+# locale: en-US
+
 title: YANZHANG's Portfolio
 email: yanzhang_li@outlook.com
 description: >- # this means to ignore newlines until "baseurl:"
-  彦樟的个人网站 @2019-2023
+  彦樟的个人网站 @2019-2022
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://liyanzhang.cn" # the base hostname & protocol for your site, e.g. http://example.com
 github_username: yanzhanglee
-logo: /images/avatar-real.jpg
+logo: /images/avatar.png
 google_fonts:
   - name: "Source Sans Pro"
     weights: "400,400i,700,700i"
@@ -39,7 +40,6 @@ paginate_path: /page:num/
 skin: "/assets/css/skins/default.css"
 
 # Build settings
-theme: jekyll-theme-so-simple
 markdown: kramdown
 plugins:
   - jekyll-seo-tag
@@ -47,9 +47,10 @@ plugins:
   - jekyll-feed
   - jekyll-paginate
 
+# Site Author
 author:
   name: Li Yanzhang
-  picture: /images/avatar-real.jpg
+  picture: /images/avatar.png
   email: yanzhang_li@outlook.com
   links:
     - title: Instagram
@@ -64,10 +65,12 @@ author:
     - title: JIKE
       url: https://web.okjike.com/u/B8D9E902-BB3C-4AE2-88CC-3830D96271D6
       icon: fas fa-rss-square
-    # - title: MaiMai
-    #   url: https://maimai.cn/contact/share/card?u=ifbrqwjtfnv5&_share_channel=copy_link
-    #   icon: fas fa-id-card-alt
+    - title: MaiMai
+      url: https://maimai.cn/contact/share/card?u=ifbrqwjtfnv5&_share_channel=copy_link
+      icon: fas fa-id-card-alt
 
+
+# Footer Links
 footer_links:
   - title: Instagram
     url: https://instagram.com/_liyanzhang
@@ -81,9 +84,9 @@ footer_links:
   - title: JIKE
     url: https://web.okjike.com/u/B8D9E902-BB3C-4AE2-88CC-3830D96271D6
     icon: fas fa-rss-square
-  # - title: MaiMai
-  #   url: https://maimai.cn/contact/share/card?u=ifbrqwjtfnv5&_share_channel=copy_link
-  #   icon: fas fa-id-card-alt
+  - title: MaiMai
+    url: https://maimai.cn/contact/share/card?u=ifbrqwjtfnv5&_share_channel=copy_link
+    icon: fas fa-id-card-alt
 
 # Front Matter Defaults
 defaults:
@@ -103,30 +106,35 @@ defaults:
       layout: post
       comments: false
       share: false
+  # GIX defaults
+  - scope:
+      path: "_gix"
+      type: gix
+    values:
+      layout: page
+      comments: false
+      share: false
 
 # Collections
 collections:
   works:
     output: true
     permalink: /:collection/:path/
+  gix:
+    output: true
+    permalink: /:collection/:path/
 
-copyright: "Copyright © 2019-2023 Yanzhang Li. All rights reserved. "
+copyright: "Copyright © 2019-2022 Yanzhang Li. All rights reserved. "
+
+google_analytics: UA-185838110-1
 
 # Exclude from processing.
-# The following items will not be processed, by default.
-# Any item listed under the `exclude:` key here will be automatically added to
-# the internal "default list".
-#
-# Excluded items can be processed by explicitly listing the directories or
-# their entries' file path in the `include:` list.
-#
+# The following items will not be processed, by default. Create a custom list
+# to override the default setting.
 # exclude:
-#   - .sass-cache/
-#   - .jekyll-cache/
-#   - gemfiles/
 #   - Gemfile
 #   - Gemfile.lock
-#   - node_modules/
+#   - node_modules
 #   - vendor/bundle/
 #   - vendor/cache/
 #   - vendor/gems/

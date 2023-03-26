@@ -14,9 +14,6 @@ title: About Me
 - 📞 微信: _yanzhang
 
 <br>
-下面是我过往的年度记事，超级流水账，主要用来留个记录，简历可不能这么搞😅
-
-<br>
 
 ## 🎓 教育经历
 **硕士** 2020-2022 理学硕士 清华大学全球创新学院-数据科学与信息技术
@@ -33,17 +30,13 @@ title: About Me
 
 ## 💼 项目、实习、工作和生活
 
-### 2023
+### 2021
 
 <figure style="width: 160px" class="align-right">
-  <img src="https://img.oh-eureka.com/IMG_6510.JPG" alt="">
-  <figcaption>和微信广告的伙伴们</figcaption>
-  <img src="https://img.oh-eureka.com/IMG_4819.jpg" alt="">
-  <figcaption>终于从清华毕业</figcaption>
   <img src="//img.oh-eureka.com/picgoMacMini/graduation.jpg" alt="">
-  <figcaption>网课小王子从UW毕业</figcaption>
+  <figcaption>从UW毕业</figcaption>
   <img src="//img.oh-eureka.com/picgoMacMini/ali.jpg" alt="">
-  <figcaption>在阿里实习</figcaption>
+  <figcaption>阿里实习</figcaption>
   <img src="//img.oh-eureka.com/picgoMacMini/钱钱.png" alt="">
   <figcaption>李钱钱 21-5-25出生</figcaption>
   <img src="//img.oh-eureka.com/picgoMacMini/IMG_2640.JPG" alt="">
@@ -62,33 +55,11 @@ title: About Me
   <figcaption>第一个实现盈利的产品</figcaption>
 </figure>
 
-2023这还没完呢
-
-### 2022
-
-#### 学业
-
-**1月-6月** 基于投稿论文，继续实验，并完成毕业论文。6月份顺利拿到学位
-
-#### 工作
-
-**全年** 加入微信广告，主要负责朋友圈广告形态和链路，合约和竞价均有涉猎
-
-**全年** 业余时间研究Web3、NFT和DAO等内容，Eth本位盈利35%+
-
-#### 生活
-
-**6月** 告五人的Live，毕业，和入职前的好日子
-
-**12月** 平潭岛旅行
-
-### 2021
-
-#### 学业
+#### 课程与科研
 
 **全年** 完成了华盛顿大学的MSTI学位课程，于12月顺利拿到学位，GPA:3.94/4.0
 
-**全年** 合作产出一篇论文，被人机交互顶会 SIGCHI2022 收录
+**全年** 合作产出一篇论文，作为我的毕业论文，已投稿至人机交互顶会 SIGCHI2022 [Under Revise & Resubmit]
 
 #### 项目与工作
 
@@ -102,17 +73,19 @@ title: About Me
 
 #### 生活
 
-**9月-至今** 养了一只英短蓝金渐层，叫李钱钱，算是第一次照顾一只生命
+**9月-至今** 养了一只英短蓝金渐层，叫李钱钱
 
 **10月** 去甘肃、甘南藏族自治州和成都自驾了7天，草原和星空很美
 
+**1月-6月** 在清华校园里生活 **7月-12月** 在杭州家里生活
+
 ### 2020
 
-#### 学业
+#### 课程与科研
 
 **9月-12月** 开学，在清华里上课+网课，起早摸黑做项目做课程同时摸索科研
 
-**7月-9月** 参与 Accessing Computing Summer Program 开始尝试人机交互与普适计算的科研
+**7月-9月** 参与Accessing Computing Summer Program 开始尝试人机交互与普适计算的科研
 
 **1月-6月** 完成毕业设计，顺利从浙大毕业，校优秀毕业设计和浙江省优秀毕业生
 
@@ -132,7 +105,7 @@ title: About Me
 
 ### 2019
 
-#### 学业
+#### 课程与科研
 
 **全年** 完成课业，保研，申请
 
@@ -162,4 +135,19 @@ title: About Me
 
 ## 📝 其他
 
-还可能出没在？ <i class="fab fa-instagram"></i> [Instagram](https://instagram.com/_liyanzhang) `|` <i class="fas fa-id-card-alt"></i> [脉脉](https://maimai.cn/contact/share/card?u=ifbrqwjtfnv5&_share_channel=copy_link) `|` <i class="fab fa-linkedin"></i> [LinkedIn](https://www.linkedin.com/in/yanzhangli/) `|` <i class="fab fa-github-square"></i> [GitHub](https://github.com/yanzhanglee)
+还可能出没在
+
+### 社交媒体
+
+<i class="fab fa-instagram"></i> [Instagram](https://instagram.com/_liyanzhang)
+
+<i class="fas fa-rss-square"></i> [知乎](https://www.zhihu.com/people/yanzhangli)
+
+### 职业发展
+
+<i class="fas fa-id-card-alt"></i> [脉脉](https://maimai.cn/contact/share/card?u=ifbrqwjtfnv5&_share_channel=copy_link)  
+
+<i class="fab fa-linkedin"></i> [LinkedIn](https://www.linkedin.com/in/yanzhangli/)
+
+<i class="fab fa-github-square"></i> [GitHub](https://github.com/yanzhanglee)
+
